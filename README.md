@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
     <head>
     </head>
@@ -22,4 +22,4 @@
             <li> Season with sugar, salt and pepper </li>   
         </ol>
      </body>
-
+</html>
