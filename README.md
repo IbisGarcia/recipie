@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
     <head>
     </head>
@@ -21,6 +21,5 @@
             <li> Drizzle with cider vinegar and olive oil </li>
             <li> Season with sugar, salt and pepper </li>   
         </ol>
-
      </body>
-</html>
+
